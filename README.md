@@ -1,1 +1,1 @@
-# hololive-mate
+# holo-mate
